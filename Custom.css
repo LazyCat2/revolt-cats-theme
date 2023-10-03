@@ -80,9 +80,9 @@ pre.code, .context-menu, audio, table, .mobile, pre
         Following style is forsing white text on dark banner
         Remove it when dimming color of banned become customizable
 */
-._header_kup3j_8[data-force="light"] > * ._details_kup3j_33 > *,
+._header_kup3j_8[data-force="light"] > * > ._details_kup3j_33 > *,
 ._header_kup3j_8[data-force="light"] > ._profile_kup3j_21 > .IconButton-sc-166lqkp-0.bGwznd > svg,
-._header_kup3j_8[data-force="light"] > * ._details_kup3j_33 > ._usernameDetail_kup3j_45 > *
+._header_kup3j_8[data-force="light"] > * > ._details_kup3j_33 > ._usernameDetail_kup3j_45 > *
 {
         color: white !important;
         fill: white; 
